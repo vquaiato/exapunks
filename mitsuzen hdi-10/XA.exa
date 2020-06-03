@@ -1,0 +1,6 @@
+LINK 800
+
+MARK LOOP
+  COPY #NERV M
+  TEST 1 = 1
+    TJMP LOOP
